@@ -1,5 +1,5 @@
 # html_css _exercicios_praticos
- Repositório de Exercícios Práticos do "Meu Curso em Vídeo", ministrado pelo professor Gustavo Guanabara.
+ Repositório de Exercícios Práticos do "Meu Curso em Vídeo", ministrado pelo professor Gustavo Guanabara (Hosnet Brasil).
 
 <img src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo-branca.png" width="200" style="max-width: 100%;">
 
