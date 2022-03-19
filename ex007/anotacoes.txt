@@ -1,0 +1,11 @@
+A base hoje é:
+
+HTML - Significado / Semântica
+
+CSS - Estilo / Forma
+
+É fundamental saber diferenciar qual parte será feita em HTML e qual em CSS.
+
+(W3) Tags Obsoletas: https://www.w3.org/TR/2010/WD-html5-20100304/obsolete.html
+
+Ficar de olho, porque tags de hoje poderão cair em desuso no futuro.
